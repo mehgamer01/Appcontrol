@@ -1,0 +1,25 @@
+{
+  "app": {
+    "enable": true,
+    "title": "App Disabled",
+    "message": "Server maintenance chal raha hai",
+    "cancelable": false
+  },
+
+  "web": {
+    "url": "https://study.edumate.life/APPX/course.html?id=355&domainId=8768"
+  },
+
+  "dialog": {
+    "enable": true,
+    "title": "Important Notice",
+    "message": "Aaj raat 9 baje new class upload hogi",
+    "cancelable": true
+  },
+
+  "notification": {
+    "enable": true,
+    "title": "RWA Update",
+    "message": "New batch coming soon"
+  }
+}

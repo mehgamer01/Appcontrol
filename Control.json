@@ -12,14 +12,14 @@
 
   "dialog": {
     "enable": true,
-    "title": "Important Notice",
-    "message": "Aaj raat 9 baje new class upload hogi",
+    "title": "Important Notice by Hacker",
+    "message": "Moj karo dosto apka bhai Mehgaon Hacker",
     "cancelable": true
   },
 
   "notification": {
     "enable": true,
-    "title": "RWA Update",
+    "title": "RWA Update from MehgaonHacker",
     "message": "New batch coming soon"
   }
 }

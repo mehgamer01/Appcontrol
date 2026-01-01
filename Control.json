@@ -13,13 +13,13 @@
   "dialog": {
     "enable": true,
     "title": "Important Notice by Hacker",
-    "message": "Moj karo dosto apka bhai Mehgaon Hacker",
+    "message": "🙏🎊🧨🎉🎇🎆 HAPPY NEW YEAR 🥰❤️🎊🎆🎇🎉 apka bhai Mehgaon Hacker",
     "cancelable": true
   },
 
   "notification": {
     "enable": true,
     "title": "RWA Update from MehgaonHacker",
-    "message": "New batch coming soon"
+    "message": "🙏🎊🧨🎉🎇🎆 HAPPY NEW YEAR 🥰❤️🎊🎆🎇🎉 apka bhai Mehgaon Hacker"
   }
 }

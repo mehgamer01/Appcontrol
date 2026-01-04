@@ -7,8 +7,9 @@
   },
 
   "web": {
-    "url": "https://study.edumate.life//auth?token=ed1f1c20e3da270ec4d4a8ced5d98969"
-  },
+  "auth_url": "https://study.edumate.life//auth?token=ed1f1c20e3da270ec4d4a8ced5d98969",
+  "redirect_url": "https://study.edumate.life/APPX/course.html?domainId=8768"
+},
 
   "dialog": {
     "enable": true,

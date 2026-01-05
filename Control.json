@@ -8,7 +8,7 @@
 
   "web": {
   "auth_url": "https://study.edumate.life//auth?token=d570b7586b8ac35c6baab0346fc9215f",
-  "redirect_url": "https://study.edumate.life/APPX/course.html?domainId=8768"
+  "redirect_url": "https://study.edumate.life/APPX/course.html?id=355&domainId=8768"
 },
 
   "dialog": {

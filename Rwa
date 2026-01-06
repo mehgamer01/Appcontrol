@@ -1,1 +1,26 @@
+{
+  "app": {
+    "enable": false,
+    "title": "App Disabled",
+    "message": "Server maintenance chal raha hai",
+    "cancelable": false
+  },
 
+  "web": {
+  "auth_url": "https://study.edumate.life//auth?token=d570b7586b8ac35c6baab0346fc9215f",
+  "redirect_url": "https://study.edumate.life/APPX/course.html?id=355&domainId=8768"
+},
+
+  "dialog": {
+    "enable": true,
+    "title": "Important Notice by Hacker",
+    "message": "🙏🎊🧨🎉🎇🎆 HAPPY NEW YEAR 🥰❤️🎊🎆🎇🎉 apka bhai Mehgaon Hacker",
+    "cancelable": true
+  },
+
+  "notification": {
+    "enable": true,
+    "title": "RWA Update from MehgaonHacker",
+    "message": "🙏🎊🧨🎉🎇🎆 HAPPY NEW YEAR 🥰❤️🎊🎆🎇🎉 apka bhai Mehgaon Hacker"
+  }
+}

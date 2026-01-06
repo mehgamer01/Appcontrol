@@ -1,6 +1,6 @@
 {
   "app": {
-    "enable": false,
+    "enable": true,
     "title": "App Disabled",
     "message": "Server maintenance chal raha hai",
     "cancelable": false

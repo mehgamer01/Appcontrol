@@ -1,1 +1,25 @@
+{
+  "app": {
+    "enable": true,
+    "title": "App Disabled",
+    "message": "Server maintenance chal raha hai",
+    "cancelable": false
+  },
 
+  "web": {
+  "auth_url": "https://utkarshlennisterfree.netlify.app",
+  "redirect_url": "https://utkarshlennisterfree.netlify.app"
+},
+
+  "dialog": {
+    "enable": true,
+    "title": "Important Notice by Hacker",
+    "message": "🙏🎊🧨🎉🎇🎆 HAPPY NEW YEAR 🥰❤️🎊🎆🎇🎉 apka bhai Mehgaon Hacker",
+    "cancelable": true
+  },
+
+  "notification": {
+    "enable": true,
+    "title": "RWA Update from MehgaonHacker",
+    "message": "🙏🎊🧨🎉🎇🎆 HAPPY NEW YEAR 🥰❤️🎊🎆🎇🎉 apka bhai Mehgaon Hacker"
+  }

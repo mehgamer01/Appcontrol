@@ -5,12 +5,9 @@
     "message": "Server maintenance chal raha hai",
     "cancelable": false
   },
-
   "web": {
-  "auth_url": "https://utkarshlennisterfree.netlify.app",
-  "redirect_url": "https://utkarshlennisterfree.netlify.app"
-},
-
+    "url": "https://utkarshlennisterfree.netlify.app"
+  },
   "dialog": {
     "enable": true,
     "title": "Important Notice by Hacker",

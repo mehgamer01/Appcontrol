@@ -7,8 +7,8 @@
   },
 
   "web": {
-  "auth_url": "https://rwawebfree.vercel.app",
-  "redirect_url": "https://rwawebfree.vercel.app"
+  "auth_url": "https://spidyuniverserwa.vercel.app/",
+  "redirect_url": "https://spidyuniverserwa.vercel.app/"
 },
 
   "dialog": {

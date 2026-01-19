@@ -1,8 +1,8 @@
 {
   "app": {
-    "enable": true,
+    "enable": false,
     "title": "App Disabled",
-    "message": "Server maintenance chal raha hai",
+    "message": "कुछ देर इंतजार करें अभी रवा का सर्वर मैं प्रॉब्लम है इसीलिए अपना ऐप नहीं चल रहा है एक-दो घंटे में अपने आप सही हो जाएगा आपका भाई हैकर",
     "cancelable": false
   },
 

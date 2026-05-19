@@ -1,14 +1,14 @@
 {
   "app": {
-    "enable": false,
+    "enable": true,
     "title": "App Disabled",
     "message": "कुछ देर इंतजार करें अभी RWA का सर्वर मैं प्रॉब्लम है इसीलिए अपना ऐप नहीं चल रहा है एक-दो घंटे में अपने आप सही हो जाएगा आपका भाई हैकर",
     "cancelable": false
   },
 
   "web": {
-  "auth_url": "https://spidyuniverserwa.vercel.app/",
-  "redirect_url": "https://spidyuniverserwa.vercel.app/"
+  "auth_url": "http://rgvikramjeetv1.netlify.app",
+  "redirect_url": "http://rgvikramjeetv1.netlify.app"
 },
 
   "dialog": {

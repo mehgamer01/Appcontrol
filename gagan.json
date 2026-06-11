@@ -7,8 +7,8 @@
   },
 
   "web": {
-  "auth_url": "http://rgvikramjeetv1.netlify.app",
-  "redirect_url": "http://rgvikramjeetv1.netlify.app"
+  "auth_url": "https://spidyway.vercel.app",
+  "redirect_url": "https://spidyway.vercel.app"
 },
 
   "dialog": {

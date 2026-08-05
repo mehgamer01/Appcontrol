@@ -7,8 +7,8 @@
   },
 
   "web": {
-  "auth_url": "https://spidyway.vercel.app",
-  "redirect_url": "https://spidyway.vercel.app"
+  "auth_url": "https://spidyuniverseway.vercel.app/",
+  "redirect_url": "https://spidyuniverseway.vercel.app/"
 },
 
   "dialog": {
